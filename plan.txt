@@ -1,5 +1,8 @@
 TODO 
 - how to store family tree info in JSON
 
-- learn orgChartJS for tree representation
+- learn dTree for tree representation
+https://github.com/ErikGartner/dTree
+
+requires D# v4.x and lodash v4.x
 
