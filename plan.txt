@@ -1,0 +1,5 @@
+TODO 
+- how to store family tree info in JSON
+
+- learn orgChartJS for tree representation
+
